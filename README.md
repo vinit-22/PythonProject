@@ -103,6 +103,7 @@ You should see the app's response from the `/` route. Visiting `/hi` will show a
 Once the app is running and you visit it in a browser, you should see the following responses:
 
 ![Output for /](./Screenshot/Output1.png)
+
 ![Output for /hi](./Screenshot/Output2.png)
 
 ## 🚧 Future Enhancements
