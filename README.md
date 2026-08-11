@@ -65,13 +65,12 @@ git config --global user.email "your-email@example.com"
 ### 4️⃣ Clone the Repository
 
 ```bash
-mkdir myflaskapp
-cd myflaskapp/
-python3 -m venv venv
-source venv/bin/activate
 
 git clone https://github.com/vinit-22/PythonProject.git
 cd PythonProject
+
+python3 -m venv venv
+source venv/bin/activate
 ```
 
 ### 5️⃣ Install Python Requirements
